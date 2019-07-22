@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/weatherapp/static/css/main.5d1f0bd0.chunk.css",
-    "main.js": "/weatherapp/static/js/main.d9c270e5.chunk.js",
-    "main.js.map": "/weatherapp/static/js/main.d9c270e5.chunk.js.map",
-    "runtime~main.js": "/weatherapp/static/js/runtime~main.e7dc3139.js",
-    "runtime~main.js.map": "/weatherapp/static/js/runtime~main.e7dc3139.js.map",
-    "static/css/2.266e55a5.chunk.css": "/weatherapp/static/css/2.266e55a5.chunk.css",
-    "static/js/2.e597a5a4.chunk.js": "/weatherapp/static/js/2.e597a5a4.chunk.js",
-    "static/js/2.e597a5a4.chunk.js.map": "/weatherapp/static/js/2.e597a5a4.chunk.js.map",
-    "index.html": "/weatherapp/index.html",
-    "precache-manifest.208f66fc5fd8e7eba24164ecc8888e6a.js": "/weatherapp/precache-manifest.208f66fc5fd8e7eba24164ecc8888e6a.js",
-    "service-worker.js": "/weatherapp/service-worker.js",
-    "static/css/2.266e55a5.chunk.css.map": "/weatherapp/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.5d1f0bd0.chunk.css.map": "/weatherapp/static/css/main.5d1f0bd0.chunk.css.map"
+    "main.css": "/WeatherApp/static/css/main.5d1f0bd0.chunk.css",
+    "main.js": "/WeatherApp/static/js/main.7f2f6ab0.chunk.js",
+    "main.js.map": "/WeatherApp/static/js/main.7f2f6ab0.chunk.js.map",
+    "runtime~main.js": "/WeatherApp/static/js/runtime~main.3044ef82.js",
+    "runtime~main.js.map": "/WeatherApp/static/js/runtime~main.3044ef82.js.map",
+    "static/css/2.266e55a5.chunk.css": "/WeatherApp/static/css/2.266e55a5.chunk.css",
+    "static/js/2.e597a5a4.chunk.js": "/WeatherApp/static/js/2.e597a5a4.chunk.js",
+    "static/js/2.e597a5a4.chunk.js.map": "/WeatherApp/static/js/2.e597a5a4.chunk.js.map",
+    "index.html": "/WeatherApp/index.html",
+    "precache-manifest.a63bbefbe0a3e7c25f81d4affd51608d.js": "/WeatherApp/precache-manifest.a63bbefbe0a3e7c25f81d4affd51608d.js",
+    "service-worker.js": "/WeatherApp/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/WeatherApp/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.5d1f0bd0.chunk.css.map": "/WeatherApp/static/css/main.5d1f0bd0.chunk.css.map"
   }
 }
