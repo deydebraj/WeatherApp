@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/weatherapp/static/css/main.5d1f0bd0.chunk.css",
-    "main.js": "/weatherapp/static/js/main.d9c270e5.chunk.js",
-    "main.js.map": "/weatherapp/static/js/main.d9c270e5.chunk.js.map",
-    "runtime~main.js": "/weatherapp/static/js/runtime~main.e7dc3139.js",
-    "runtime~main.js.map": "/weatherapp/static/js/runtime~main.e7dc3139.js.map",
-    "static/css/2.266e55a5.chunk.css": "/weatherapp/static/css/2.266e55a5.chunk.css",
-    "static/js/2.e597a5a4.chunk.js": "/weatherapp/static/js/2.e597a5a4.chunk.js",
-    "static/js/2.e597a5a4.chunk.js.map": "/weatherapp/static/js/2.e597a5a4.chunk.js.map",
-    "index.html": "/weatherapp/index.html",
-    "precache-manifest.208f66fc5fd8e7eba24164ecc8888e6a.js": "/weatherapp/precache-manifest.208f66fc5fd8e7eba24164ecc8888e6a.js",
-    "service-worker.js": "/weatherapp/service-worker.js",
-    "static/css/2.266e55a5.chunk.css.map": "/weatherapp/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.5d1f0bd0.chunk.css.map": "/weatherapp/static/css/main.5d1f0bd0.chunk.css.map"
+    "main.css": "/deydebraj/weatherapp/static/css/main.5d1f0bd0.chunk.css",
+    "main.js": "/deydebraj/weatherapp/static/js/main.635b7168.chunk.js",
+    "main.js.map": "/deydebraj/weatherapp/static/js/main.635b7168.chunk.js.map",
+    "runtime~main.js": "/deydebraj/weatherapp/static/js/runtime~main.b6dd1ace.js",
+    "runtime~main.js.map": "/deydebraj/weatherapp/static/js/runtime~main.b6dd1ace.js.map",
+    "static/css/2.266e55a5.chunk.css": "/deydebraj/weatherapp/static/css/2.266e55a5.chunk.css",
+    "static/js/2.e597a5a4.chunk.js": "/deydebraj/weatherapp/static/js/2.e597a5a4.chunk.js",
+    "static/js/2.e597a5a4.chunk.js.map": "/deydebraj/weatherapp/static/js/2.e597a5a4.chunk.js.map",
+    "index.html": "/deydebraj/weatherapp/index.html",
+    "precache-manifest.e31a7e3dc8671ccdb5784ac737f53179.js": "/deydebraj/weatherapp/precache-manifest.e31a7e3dc8671ccdb5784ac737f53179.js",
+    "service-worker.js": "/deydebraj/weatherapp/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/deydebraj/weatherapp/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.5d1f0bd0.chunk.css.map": "/deydebraj/weatherapp/static/css/main.5d1f0bd0.chunk.css.map"
   }
 }
