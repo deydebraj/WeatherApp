@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Ubuntu', sans-serif;
     background: sandybrown;
     margin: 40px;
 }
@@ -45,6 +45,7 @@ h1{
     background: rgb(228, 152, 87);
     border-radius: 30px;
     padding: 10px;
+    font-weight: 700;
     font-size: 60px;
 }
 
@@ -68,6 +69,7 @@ p{
     background: rgb(247, 164, 155);
     padding: 10px;
     font-size: 17px;
+    font-weight: 700;
 }
 .weather-output p:hover{
     border: 2px black;
