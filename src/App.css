@@ -224,6 +224,19 @@ button:hover {
     text-transform: capitalize;
 }
 
+.temperature-details {
+    display: flex;
+    gap: 12px;
+    margin-left: auto;
+    color: var(--muted);
+    font-size: 12px;
+}
+
+.temperature-details span+span {
+    padding-left: 12px;
+    border-left: 1px solid var(--line);
+}
+
 .metric-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -289,6 +302,15 @@ footer {
 
     .search-copy {
         margin-bottom: 20px;
+    }
+
+    .temperature-card {
+        flex-wrap: wrap;
+    }
+
+    .temperature-details {
+        width: 100%;
+        margin: 5px 0 0;
     }
 
     .location-form {

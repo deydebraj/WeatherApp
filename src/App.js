@@ -8,12 +8,22 @@ const API_KEY = "787b31a6c8c25e5f3fdf943da2f1c58d";
 class App extends React.Component {
   state = {
     temperature: undefined,
+    feelsLike: undefined,
+    temperatureMin: undefined,
+    temperatureMax: undefined,
     city: undefined,
     country: undefined,
     humidity: undefined,
     pressure: undefined,
     description: undefined,
     WindSpeed: undefined,
+    windGust: undefined,
+    windDirection: undefined,
+    visibility: undefined,
+    cloudCover: undefined,
+    sunrise: undefined,
+    sunset: undefined,
+    timezone: undefined,
     error: undefined,
   };
   //function starts here
@@ -33,12 +43,22 @@ class App extends React.Component {
 
       this.setState({
         temperature: data.main.temp,
+        feelsLike: data.main.feels_like,
+        temperatureMin: data.main.temp_min,
+        temperatureMax: data.main.temp_max,
         city: data.name,
         country: data.sys.country,
         humidity: data.main.humidity,
         pressure: data.main.pressure,
         description: data.weather[0].description,
         WindSpeed: data.wind.speed,
+        windGust: data.wind.gust,
+        windDirection: data.wind.deg,
+        visibility: data.visibility,
+        cloudCover: data.clouds.all,
+        sunrise: data.sys.sunrise,
+        sunset: data.sys.sunset,
+        timezone: data.timezone,
         error: "",
       });
     } else {
@@ -80,12 +100,22 @@ class App extends React.Component {
           <div className="weather-output">
             <WeatherComp
               temperature={this.state.temperature}
+              feelsLike={this.state.feelsLike}
+              temperatureMin={this.state.temperatureMin}
+              temperatureMax={this.state.temperatureMax}
               city={this.state.city}
               country={this.state.country}
               humidity={this.state.humidity}
               pressure={this.state.pressure}
               description={this.state.description}
               WindSpeed={this.state.WindSpeed}
+              windGust={this.state.windGust}
+              windDirection={this.state.windDirection}
+              visibility={this.state.visibility}
+              cloudCover={this.state.cloudCover}
+              sunrise={this.state.sunrise}
+              sunset={this.state.sunset}
+              timezone={this.state.timezone}
               error={this.state.error}
             />
           </div>
